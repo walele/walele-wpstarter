@@ -1,0 +1,8 @@
+{
+    "name": "walele/wpstarter",
+    "type": "template",
+    "description": "A project template to make creating new (type goes here) projects easier.",
+    "keywords": ["template"],
+    "homepage": "https://jajaja.ca",
+    "license": "MIT"
+}
